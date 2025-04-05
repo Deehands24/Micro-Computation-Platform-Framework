@@ -1,0 +1,16 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# 1st objective
+-create coda mcp that,
+--will run flawlessly and have all the abilities that the coda pack sdk has to offer
+
+## 2nd objective
+-find a point in are project creation where we can save to our cpu a template for building MCP
+
+### recall that we have the official mcp documentations stored in are cursor docs. revert back to those docs at any stuck point
+
+- You can use markdown but dont have to

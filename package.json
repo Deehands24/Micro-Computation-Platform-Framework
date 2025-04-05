@@ -1,0 +1,30 @@
+{
+  "name": "mcp-framework",
+  "version": "0.1.0",
+  "description": "A flexible Micro Computation Platform (MCP) Framework for building custom formula and sync table engines",
+  "main": "server.ts",
+  "scripts": {
+    "start": "bun run server.ts",
+    "test": "bun run client.ts",
+    "dev": "bun --watch run server.ts"
+  },
+  "keywords": [
+    "mcp",
+    "framework",
+    "bun",
+    "typescript",
+    "api",
+    "formulas",
+    "sync-tables",
+    "integration"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "latest"
+  },
+  "dependencies": {
+    "@codahq/packs-sdk": "latest"
+  }
+}
